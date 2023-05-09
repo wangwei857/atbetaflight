@@ -88,10 +88,10 @@
 
 
 #define USE_SPI_DEVICE_3
-#define SPI3_SCK_PIN            PC10
-#define SPI3_MISO_PIN           PC11
-#define SPI3_MOSI_PIN           PC12
-#define SPI3_NSS_PIN 			PD6 //confirm on lqfp64
+#define SPI3_SCK_PIN            PC10  //PB3
+#define SPI3_MISO_PIN           PC11  //PB4  QFN48
+#define SPI3_MOSI_PIN           PC12  //PB5
+#define SPI3_NSS_PIN 			PD6 //confirm on lqfp64  
 
 // *************** Gyro & ACC **********************
 
