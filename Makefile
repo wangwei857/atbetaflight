@@ -16,7 +16,7 @@
 #
 
 # The target to build, see VALID_TARGETS below
-TARGET    ?= AT32F437DEV
+TARGET    ?= NEUTRONRCF435MINI   //AT32F437DEV
 
 # Compile-time options
 OPTIONS   ?=
